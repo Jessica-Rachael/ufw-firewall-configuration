@@ -20,8 +20,8 @@ Script used:
    sudo ufw status verbose
 
 Rules:
-SSH(port 22)- for secure remote access
-HTTP(Port 80)- blocks basic web server access to reduce attack risks
+SSH(port 22)- for secure remote access.
+HTTP(Port 80)- blocks basic web server access to reduce attack risks.
 
 Conclusion:
 Had the great experience while learning about the firewall configuration
